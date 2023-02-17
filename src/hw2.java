@@ -12,7 +12,7 @@ public class hw2 {
         System.out.println(age + ", какой ты молодой!");
         System.out.println(name + ", а чем ты увлекаешься?");
         String hobby = input.nextLine();
-        System.out.println(hobby + ", мне это тоже нравится!");
+        System.out.println(hobby + ",  мне это тоже нравится!");
         System.out.println("А чем ты хочешь заняться в будущем?");
         input.nextLine();
         System.out.println("Занятно..");
